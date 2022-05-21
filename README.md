@@ -8,10 +8,10 @@ Crie e execute um plano de teste improvisado para https://www.zizoo.com/en/searc
 ## Tarefas
 
 - Revise o URL fornecido
-- Crie um "plano de teste improvisado" descrito em uma planilha do google ou documento do google
 - Crie uma planilha do google representando um 'formulário de entrada de bug'.
 - As colunas devem representar atributos de bugs (por exemplo, nome, descrição, prioridade)
-- As linhas devem ser os próprios bugs
+- As linhas devem ser os próprios bugs;
+- Crie um "plano de teste improvisado" descrito em uma planilha do google ou documento do google
 - Teste o URL fornecido usando o `plano de teste improvisado` e preencha um documento com qualquer coisa que você considere um bug
 - Certifique-se de cobrir pelo menos 3 resoluções de telas diferentes
 
